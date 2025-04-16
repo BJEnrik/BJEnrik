@@ -1,6 +1,7 @@
 ![Header](./bjenrik_github_header.png)
 <h1 align="center">Hi 👋, I'm BJ Enrik Yepes</h1>
-<h3 align="center">I am a Senior Data Scientist with a Master's degree in Data Science from the esteemed Asian Institute of Management. My expertise spans a wide spectrum within the Data Science and AI field, encompassing Generative AI, Machine Learning, Data Mining, Time Series Analysis, Natural Language Processing, Deep Learning, Reinforcement Learning, Network Science, and Image Processing.</h3>
+<h3 align="center">I’m a Senior Data Scientist with a strong foundation in both theory and real-world application. I hold a Master’s in Data Science from the Asian Institute of Management, and my work spans a wide range of domains — from Machine Learning and Generative AI to Time Series Forecasting, NLP, and Deep Learning.</h3>
+<h3 align="center">Whether it's building predictive models, deploying AI solutions, or uncovering insights from complex datasets, I’m driven by the challenge of turning data into meaningful impact.</h3>
 <img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bjenrik&label=Profile%20views&color=0e75b6&style=flat" alt="bjenrik" /> </p>
